@@ -1,0 +1,21 @@
+1|Apple iPhone 15 Pro|Electronics|129900.0|Titanium design, A17 Pro chip, 48MP main camera system, and USB-C port.
+2|Samsung Galaxy S24 Ultra|Electronics|129999.0|Flagship smartphone with Snapdragon 8 Gen 3, S-Pen stylus, 200MP Quad Tele camera, and Galaxy AI features.
+3|Apple MacBook Air M3|Laptops|114900.0|15-inch Liquid Retina display laptop with Apple M3 chip, 8-core CPU, 10-core GPU, 8GB Unified Memory, and 256GB SSD.
+4|Sony WH-1000XM5 Headphones|Audio|29990.0|Industry-leading noise canceling wireless headphones with Auto NC Optimizer and crystal clear hands-free calling.
+5|Dell XPS 13 Laptop|Laptops|135000.0|Premium ultraportable laptop with Intel Core Ultra 7 processor, 13.4-inch FHD+ display, 16GB RAM, and 512GB SSD.
+6|Apple Watch Series 9|Wearables|41900.0|Smartwatch with S9 SiP, Double Tap gesture control, 2000 nits brighter display, and advanced health sensors.
+7|Nike Air Max 270|Footwear|12995.0|Men's sports running shoes featuring large Max Air heel unit for responsive cushioning and breathable mesh upper.
+8|Bose QuietComfort Earbuds II|Audio|24900.0|Wireless noise canceling earbuds with CustomTune technology for personalized sound and noise cancellation.
+9|LG 55-inch 4K OLED Smart TV|Appliances|119990.0|Self-lit OLED pixels, alpha9 AI Processor 4K Gen6, Dolby Vision IQ, Dolby Atmos, and webOS Smart TV.
+10|Dyson V15 Detect Vacuum|Home Appliances|62900.0|Cordless vacuum cleaner with laser illumination to reveal invisible dust, piezo sensor, and anti-tangle Hair Screw tool.
+11|ASUS ROG Strix G16 Gaming Laptop|Laptops|159990.0|High performance gaming laptop with Intel Core i9-13980HX, NVIDIA GeForce RTX 4070 GPU, and 16-inch ROG Nebula Display.
+12|Kindle Paperwhite 16GB|Electronics|14999.0|6.8-inch glare-free display, adjustable warm light, up to 10 weeks battery life, and IPX8 waterproof e-reader.
+13|Instant Pot Duo 7-in-1 Cooker|Kitchen Appliances|9990.0|Electric pressure cooker, slow cooker, rice cooker, steamer, saute pan, yogurt maker, and food warmer.
+14|OnePlus 12 5G|Electronics|64999.0|Snapdragon 8 Gen 3 flagship smartphone with 50MP Hasselblad camera system and 100W SUPERVOOC fast charging.
+15|Sony PlayStation 5 Console|Gaming|54990.0|Next-generation gaming console with ultra-high speed SSD, ray tracing graphics, 3D audio, and DualSense haptic feedback.
+16|Adidas Ultraboost Light Shoes|Footwear|18999.0|Lightweight running shoes featuring Light BOOST cushioning, Continental Rubber outsole, and Primeknit textile upper.
+17|Samsung 49-inch Odyssey OLED G9|Monitors|154990.0|Curved gaming monitor with Dual QHD resolution, 240Hz refresh rate, 0.03ms response time, and Neo Quantum Processor Pro.
+18|Logitech MX Master 3S Mouse|Accessories|10995.0|Performance wireless mouse with 8K DPI sensor, Quiet Clicks, and MagSpeed electromagnetic scrolling.
+19|Philips Air Fryer HD9252|Kitchen Appliances|7995.0|Rapid Air technology air fryer for healthy frying with up to 90% less fat and touch panel presets.
+20|Marshall Stanmore III Bluetooth Speaker|Audio|31999.0|Home wireless speaker with iconic vintage design, room-filling soundstage, and Bluetooth 5.2 connectivity.
+21|apple|mobile|89999.0|mobilephone
